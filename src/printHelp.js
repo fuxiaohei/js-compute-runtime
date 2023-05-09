@@ -16,6 +16,6 @@ OPTIONS:
 
 ARGS:
     <input>     The input JS script's file path [default: bin/index.js]
-    <output>    The file path to write the output Wasm module to [default: bin/main.wasm]
+    <output>    The file path to write the output Wasm Module to [default: bin/main.wasm]
 `);
 }
